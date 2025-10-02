@@ -12,7 +12,7 @@ the next thing after allowing the git initialisation in your project folder is t
 # make the github repository as the normal ways: 
 ![like in this image](image.png)
 
-# git remote add orgin <repo-name>
+# git remote add orgin <<repo-name>>
  ========================================
 
  # the above steps are followed when you start your project manually on your local computer. if you already had a repo on you own github you can just write: 
